@@ -514,5 +514,6 @@ void loop()
   rtty_txstring(DATASTRING);
   interrupts();
   Serial.print(DATASTRING);
+  count++;
   delay(2000);
 }
