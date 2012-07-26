@@ -1,5 +1,5 @@
 /* Radio and Sensor Code by Janez Stefulj & Kevin Glinka, End of 2011
-Amendments for "Project Stratosphere 26/07/2012 */
+Amendments for "Project Stratosphere" 26/07/2012 */
 
 #include <Wire.h>
 #include <string.h>
